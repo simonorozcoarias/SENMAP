@@ -13,6 +13,10 @@ mkdir output_folder
 python3 SENMAP.py -l LTR_sequences_lib.fa -o output_folder
 ```
 
+## Training dataset
+The dataset used for training SENAM is available at [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.11243249.svg)](https://doi.org/10.5281/zenodo.11243249).
+
+
 ## Citation
 if you use this software, the neural network architecture, or any other part of the code, please cite us as following:
 
